@@ -4,7 +4,7 @@ It's about restaurant dishes
 
 
 
-## How To
+## Demo
 This is how the app looks like-
 
 
